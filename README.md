@@ -5,5 +5,5 @@ Composer version 2.5.5
 php.ini -> uncomment `extension=zip`
 
 
-Descriiption:
+Description:
 gets the link to docx file and extracts the text of it
